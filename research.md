@@ -7,12 +7,12 @@ I am a household finance economist with my work stretching from empirical macroe
 ---
 ## Working Papers
 
-**[Revisiting the Consumption-Retirement Puzzle](https://nickflamang.github.io/files/nflamang_jmp.pdf)**
+**[Revisiting the Consumption-Retirement Puzzle](https://nickflamang.github.io/files/nflamang_jmp.pdf)** New draft coming soon
 
-**[Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions](https://nickflamang.github.io/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)** (with [Sree Kancherla](https://sreekancherla.github.io/))
+**[Unemployment Insurance as a Financial Stabilizer: Evidence from Large Benefit Expansions](https://nickflamang.github.io/files/UI_Benefit_Expansions_and_Local_Financial_Distress.pdf)** (with [Sree Kancherla](https://sreekancherla.github.io/)) New draft coming soon
 
 **[Temporary Shocks, Permanent Impacts: The Effects of Liquidity on Job Search and Reemployment](https://nickflamang.github.io/files/Unemployment_Liquidity_Job_Search_and_Reemployment.pdf)** (with [Sree Kancherla](https://sreekancherla.github.io/))
 
 ## Select Work in Progress
 
-**What Can We Learn from the Seasonality of Financial Distress?**
+**What Can We Learn from the Seasonality of Financial Distress?** 
