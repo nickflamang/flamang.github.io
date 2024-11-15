@@ -16,3 +16,5 @@ I am a household finance economist with my work stretching from empirical macroe
 ## Select Work in Progress
 
 **What Can We Learn from the Seasonality of Financial Distress?** 
+
+**The Micro Effects of Fiscal Consolidation: Evidence from Procurement Cuts** (with [Francisco Queiro](https://sites.google.com/view/franciscoqueiro/))
